@@ -13,3 +13,4 @@ namespace Parcial2Progra3by
         public string Duracion { get; set; }
     }
 }
+
